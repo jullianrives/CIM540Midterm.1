@@ -9,4 +9,5 @@ HOW TO USE:
 2. Click away on any of the 8 pads to trigger your sounds! (Simple, easy to use)
 
 (NOTE: Link doesn't trigger sounds in Safari, but works in Mozilla and Chrome)
+
 Link: https://jullianrives.github.io/CIM540Midterm.1/
