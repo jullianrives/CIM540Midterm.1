@@ -7,3 +7,5 @@ Readme/Explanation Section
 HOW TO USE:
 1. Select your Drumset preset from top left drop down menu (note: no sounds will be triggerable until preset has been selected)
 2. Click away on any of the 8 pads to trigger your sounds! (Simple, easy to use)
+
+https://jullianrives.github.io/CIM540Midterm.1/
